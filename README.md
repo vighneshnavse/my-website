@@ -1,2 +1,3 @@
-# my-website
-This repository contains my practice projects (my first simple project)
+# My First Website
+
+This is a simple beginner website deployed using GitHub Pages.
